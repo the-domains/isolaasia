@@ -1,4 +1,19 @@
+name: Isolaasia
+favicon: null
+layout_spectrum: 0.5462514467071742
 typography_spectrum: 0.038483513751998544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -10,21 +25,4 @@ color:
   lightness: 0.33049255749210715
   saturation: 0.009853353258222342
   rhythmicContrast: 0.5407279678620398
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5462514467071742
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Isolaasia
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Freehold villa for sale  - Canggu   BALI
-description: Roberto
 purpose: []
