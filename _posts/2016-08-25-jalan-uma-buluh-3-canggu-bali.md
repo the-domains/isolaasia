@@ -1,18 +1,25 @@
 ---
-description: 'Jalan uma buluh , 3 Canggu Bali'
-dateModified: '2016-08-25T10:15:41.522Z'
-datePublished: '2016-08-25T10:27:45.284Z'
-title: ''
-author: []
-publisher:
-  name: 'Villa Uma Buluh , 3 Canggu Bali'
-via: {}
-starred: false
-sourcePath: _posts/2016-08-25-jalan-uma-buluh-3-canggu-bali.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: 'Jalan uma buluh , 3 Canggu Bali'
+datePublished: '2016-08-25T10:44:00.425Z'
+dateModified: '2016-08-25T10:42:41.061Z'
+title: ''
+author: []
+via: {}
+sourcePath: _posts/2016-08-25-jalan-uma-buluh-3-canggu-bali.md
+authors: []
+publisher:
+  name: 'Villa Uma Buluh , 3 Canggu Bali'
+  domain: null
+  url: null
+  favicon: null
+starred: true
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53231839-5078-476d-89b5-70e8e0a0a7f3.jpg)
