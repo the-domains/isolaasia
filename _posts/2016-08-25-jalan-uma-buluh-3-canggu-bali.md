@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Jalan uma buluh , 3 Canggu Bali'
-datePublished: '2016-08-25T10:44:00.425Z'
-dateModified: '2016-08-25T10:42:41.061Z'
+description: Pool view
+datePublished: '2016-08-27T11:03:36.798Z'
+dateModified: '2016-08-27T10:31:21.906Z'
 title: ''
 author: []
 via: {}
@@ -26,4 +26,4 @@ _type: Blurb
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=-8.56133089156368&amp;longitude=115.17242431640624&amp;zoom=13&amp;address=Bali%2C%20Indonesia" style=""></iframe>
 
-Jalan uma buluh , 3 Canggu Bali
+Pool view
