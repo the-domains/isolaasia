@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Master bedroom
-datePublished: '2016-08-25T10:27:45.581Z'
-dateModified: '2016-08-23T04:15:51.432Z'
+datePublished: '2016-08-27T11:03:44.338Z'
+dateModified: '2016-08-25T10:42:04.099Z'
 author: []
 via: {}
 title: ''
 sourcePath: _posts/2016-08-22-master-bedroom.md
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: master-bedroom/index.html
 _context: 'http://schema.org'
 _type: Article
