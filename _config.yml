@@ -1,4 +1,25 @@
-typography_spectrum: 0.47353
+name: Villa Uma Buluh   - Canggu
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.53735
+author:
+  name: 'roberto '
+  email: roberto@isolaasia.com
+  url: www.isolaasia.com
+title: "Freehold villa for sale \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ +62 (0) 81 337 873145"
+description: "\_IDR 6,100.000.000  USD  450.000"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: 'https://www.facebook.com/isolaasia/'
 color:
   brandColors:
     - '#ffffff'
@@ -6,29 +27,8 @@ color:
     - '#8f8f8f'
     - '#1f1f1f'
     - '#e4af9b'
-  brandStrength: 0.625
-  lightness: 0.5
-  saturation: 0.625
-  rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: 'https://www.facebook.com/isolaasia/'
-layout_spectrum: 0.66425
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: 'roberto '
-  email: roberto@isolaasia.com
-  url: www.isolaasia.com
-name: Villa Uma Buluh   - Canggu
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: "Freehold villa for sale \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ +62 (0) 81 337 873145"
-description: "\_IDR 6,100.000.000  USD  450.000"
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
