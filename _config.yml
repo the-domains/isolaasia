@@ -13,7 +13,7 @@ color:
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: 'https://www.facebook.com/isolaasia/'
 layout_spectrum: 0.66425
 analytics:
   google: null
