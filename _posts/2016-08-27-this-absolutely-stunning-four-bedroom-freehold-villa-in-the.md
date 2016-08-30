@@ -1,27 +1,33 @@
 ---
-datePublished: '2016-08-27T11:01:48.169Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: 'Four Bedroom Freehold Villa in the Echo Beach area of Canggu. '
+datePublished: '2016-08-29T04:39:34.250Z'
+dateModified: '2016-08-29T04:38:46.819Z'
 sourcePath: >-
   _posts/2016-08-27-this-absolutely-stunning-four-bedroom-freehold-villa-in-the.md
-inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T11:01:47.073Z'
 title: Factsheet
+authors: []
 publisher: {}
-description: >-
-  Absolutely stunning Four Bedroom Freehold Villa in the Echo Beach area of
-  Canggu. 
 starred: false
 _type: Blurb
 
 ---
 # Factsheet
 
-Absolutely stunning Four Bedroom Freehold Villa in the Echo Beach area of Canggu. 
+Four Bedroom Freehold Villa in the Echo Beach area of Canggu. 
 
-The villa has just been completed in August 2016 and was designed and decorated by a well known Swedish designer whose previous property was featured in Elle Decor Magazine for the outstanding design of the building and interior. Her latest property sits on 460m2 of land made of two separate buildings which enables the residents and their guest to enjoy freedom and privacy.
+The villa has just been completed in August 2016 and was designed and decorated by a well known Swedish designer whose previous property was featured in Elle Decor Magazine for the outstanding design of the building and interior. 
 
-The main building contains the fully enclosed living and dining area and top of the range gourmet kitchen and pantry with carrara marble work tops, there is marble flooring indoor and outdoor throughout including the table top and bathroom counter tops. The main building also contains the luxurious master bedroom with en-suite bathroom.
+Villa Buluh   sits on 460m2 of land made of two separate buildings which enables the residents and their guest to enjoy freedom and privacy.
+
+The main building contains the fully enclosed living and dining area and top of the range gourmet kitchen and pantry with carrara marble work tops, all marble flooring indoor and outdoor . The main building also contains the luxurious master bedroom with en-suite bathroom.
 
 The second building contains two further double en-suite bedrooms and a spa room which can also be used as an office or fourth bedroom. All bedrooms overlook the swimming pool and garden which offers complete privacy in every square meter.
 
