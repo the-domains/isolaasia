@@ -5,23 +5,21 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Four Bedroom Freehold Villa in the Echo Beach area of Canggu. '
-datePublished: '2016-08-29T10:05:47.244Z'
-dateModified: '2016-08-29T04:39:50.334Z'
+description: "The villa has just been completed in August 2016 and was designed and decorated by a well known Swedish designer whose previous property was featured in Elle Decor Magazine for the outstanding design of the building and interior.\_"
+datePublished: '2016-08-29T10:23:59.782Z'
+dateModified: '2016-08-29T10:22:27.112Z'
 sourcePath: >-
   _posts/2016-08-27-this-absolutely-stunning-four-bedroom-freehold-villa-in-the.md
 author: []
 via: {}
-title: Factsheet
+title: 'Four Bedroom Freehold Villa in the Echo Beach area of Canggu. '
 authors: []
 publisher: {}
-starred: false
+starred: true
 _type: Blurb
 
 ---
-# Factsheet
-
-Four Bedroom Freehold Villa in the Echo Beach area of Canggu. 
+# Four Bedroom Freehold Villa in the Echo Beach area of Canggu.
 
 The villa has just been completed in August 2016 and was designed and decorated by a well known Swedish designer whose previous property was featured in Elle Decor Magazine for the outstanding design of the building and interior. 
 
@@ -39,4 +37,14 @@ If you are looking to buy a family home or a property as an investment then this
 
 All the shops and resturants of Echo Beach including Deus and Old Mans are just a 5 minute drive and there are a choice of beaches available. Also conveniently located in close proximity to the International Schools and Seminyak will take around 20 minutes in the evening.
 
-Currently held with Hak Pakai certificate meaning a non Indonesian can hold the title for up to 80 Years this property can also be converted back to Hak Milik (Freehold) If required.
+Currently held with Hak Pakai certificate meaning a non Indonesian can hold the title for up to 80 Years this property can also be converted back to Hak Milik (Freehold) If required. 
+
+Asking Pric**e IDR 6,100.000.000  or USD $ 450.000**
+
+**For viewing call Roberto  +62 ( 0)81 - 337 873145**
+
+**or email**
+
+**roberto@isolaasia.com**
+
+Onwer will pay to convert  to  freehold  if necessary
