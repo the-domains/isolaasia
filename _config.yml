@@ -1,6 +1,6 @@
 name: Villa Uma Buluh   - Canggu
 favicon: null
-layout_spectrum: 0.24368
+layout_spectrum: 0.75632
 typography_spectrum: 0.53735
 author:
   name: 'roberto '
@@ -22,11 +22,11 @@ opengraph:
   appId: 'https://www.facebook.com/isolaasia/'
 color:
   brandColors:
-    - '#fefefe'
-    - '#30150c'
-    - '#6c6964'
-    - '#f7ae5c'
-    - '#f45e64'
+    - '#ffffff'
+    - '#c3b296'
+    - '#2b2320'
+    - '#4f4a44'
+    - '#826a52'
   brandStrength: 0.5
   lightness: 1
   saturation: 0
