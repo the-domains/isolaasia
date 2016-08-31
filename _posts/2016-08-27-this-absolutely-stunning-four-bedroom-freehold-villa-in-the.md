@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Four Bedroom Freehold Villa in the Echo Beach area of Canggu. '
-datePublished: '2016-08-29T04:39:34.250Z'
-dateModified: '2016-08-29T04:38:46.819Z'
+datePublished: '2016-08-29T10:05:47.244Z'
+dateModified: '2016-08-29T04:39:50.334Z'
 sourcePath: >-
   _posts/2016-08-27-this-absolutely-stunning-four-bedroom-freehold-villa-in-the.md
 author: []
@@ -27,7 +27,9 @@ The villa has just been completed in August 2016 and was designed and decorated 
 
 Villa Buluh   sits on 460m2 of land made of two separate buildings which enables the residents and their guest to enjoy freedom and privacy.
 
-The main building contains the fully enclosed living and dining area and top of the range gourmet kitchen and pantry with carrara marble work tops, all marble flooring indoor and outdoor . The main building also contains the luxurious master bedroom with en-suite bathroom.
+The main building contains the fully enclosed living and dining area and top of the range gourmet kitchen and pantry with carrara marble work tops, . The main building also contains the luxurious master bedroom with en-suite bathroom.
+
+All Floors are hand chosen marble indoor and outdoor .
 
 The second building contains two further double en-suite bedrooms and a spa room which can also be used as an office or fourth bedroom. All bedrooms overlook the swimming pool and garden which offers complete privacy in every square meter.
 
