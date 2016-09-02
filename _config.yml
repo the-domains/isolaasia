@@ -1,34 +1,34 @@
-typography_spectrum: 0.53735
-color:
-  brandColors:
-    - '#ffffff'
-    - '#c3b296'
-    - '#2b2320'
-    - '#4f4a44'
-    - '#826a52'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: 'https://www.facebook.com/isolaasia/'
+name: Freehold Villa for Sale in Bali
+favicon: null
 layout_spectrum: 0.75632
-analytics:
-  google: UA-83295519-1
-  facebook: null
-  twitter: null
+typography_spectrum: 0.53735
 author:
   name: 'roberto '
   email: roberto@isolaasia.com
   url: www.isolaasia.com
-name: Freehold Villa for Sale in Bali
+title: Villa Buluh - Canggu Bali
+description: Contact +62 (0)81337873145
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: Villa Buluh - Canggu Bali
-description: Contact +62 (0)81337873145
+analytics:
+  google: UA-83295519-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: 'https://www.facebook.com/isolaasia/'
+color:
+  brandColors:
+    - '#accec0'
+    - '#fdf2d6'
+    - '#070709'
+    - '#23530c'
+    - '#ac9259'
+  brandStrength: 0.5625
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
